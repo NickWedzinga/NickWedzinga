@@ -22,7 +22,7 @@ I'm Nick Wedzinga, a back-end software engineer based in Karlskrona, Sweden.
 | --------- | ----------- |
 | **Scala** | Proficient |
 | **Python** | Proficient |
-| **C++** | Proficient. |
+| **C++** | Proficient |
 | **Java** | Intermediate |
 | **SQL** | Intermediate |
 
