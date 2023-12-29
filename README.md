@@ -1,17 +1,20 @@
 # Hi there 👋
 
-I'm Nick Wedzinga, a (mainly) back-end software engineer based in Karlskrona, Sweden.
+I'm Nick Wedzinga, a software engineer based in Karlskrona, Sweden.
 
 ## Skillset 🔨
 
 | Languages | Skill level |
 | --------- | ----------- |
+| **Typescript** | Proficient |
 | **Scala** | Proficient |
 | **Python** | Proficient |
-| **Typescript** | Proficient |
+| **SQL** | Proficient |
+| **Node** | Proficient |
 | **Java** | Intermediate |
-| **SQL** | Intermediate |
+
 
 ## Projects 🔭
 
-Currently working on [BlekingePoGO](https://github.com/NickWedzinga/BlekingePoGO), a manager of the Blekinge PoGO Discord server. I use this project to acquire new skills such as SQL, REST and web-integration.
+* [Sleep API](https://github.com/SleepAPI/SleepAPI), as code owner of this open source data analysis tool for Pokémon Sleep.
+* [BlekingePoGO](https://github.com/NickWedzinga/BlekingePoGO), a manager of the Blekinge PoGO Discord server.
